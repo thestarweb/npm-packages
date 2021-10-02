@@ -1,0 +1,24 @@
+{
+  "name": "@thestarweb/buff-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/main.js",
+  "types": "types/main.d.ts",
+  "files": [
+    "src",
+    "dist",
+    "types"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.4.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "buff-stream"
+  ],
+  "author": "star_ss",
+  "license": "ISC"
+}
